@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptchaMixer", "src\CaptchaMixer\CaptchaMixer.csproj", "{A8265CA5-BA13-4588-A674-D4A69CAD9942}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptchaMixer.UnitTests", "tests\CaptchaMixer.UnitTests\CaptchaMixer.UnitTests.csproj", "{920A995B-94C1-4725-8285-0DC52EBE966E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptchaMixer.Benchmarks", "tests\CaptchaMixer.Benchmarks\CaptchaMixer.Benchmarks.csproj", "{4F0FC816-6A8D-4C74-88D1-0720F0B41CCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptchaMixer.Examples", "examples\CaptchaMixer.Examples\CaptchaMixer.Examples.csproj", "{16048330-D985-4771-AF0F-72B60AC22BF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{FFF545BC-4BBA-4189-900D-2EED6D8639E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF545BC-4BBA-4189-900D-2EED6D8639E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF545BC-4BBA-4189-900D-2EED6D8639E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8265CA5-BA13-4588-A674-D4A69CAD9942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8265CA5-BA13-4588-A674-D4A69CAD9942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8265CA5-BA13-4588-A674-D4A69CAD9942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8265CA5-BA13-4588-A674-D4A69CAD9942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920A995B-94C1-4725-8285-0DC52EBE966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920A995B-94C1-4725-8285-0DC52EBE966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920A995B-94C1-4725-8285-0DC52EBE966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920A995B-94C1-4725-8285-0DC52EBE966E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0FC816-6A8D-4C74-88D1-0720F0B41CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0FC816-6A8D-4C74-88D1-0720F0B41CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0FC816-6A8D-4C74-88D1-0720F0B41CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0FC816-6A8D-4C74-88D1-0720F0B41CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16048330-D985-4771-AF0F-72B60AC22BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16048330-D985-4771-AF0F-72B60AC22BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16048330-D985-4771-AF0F-72B60AC22BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16048330-D985-4771-AF0F-72B60AC22BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E2F39F-9E5E-462C-95E8-FCF11A75CE60}
+	EndGlobalSection
+EndGlobal

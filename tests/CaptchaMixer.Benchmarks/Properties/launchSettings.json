@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaptchaMixer.Benchmarks": {
+      "commandName": "Project",
+      "commandLineArgs": "--logBuildOutput"
+    }
+  }
+}
