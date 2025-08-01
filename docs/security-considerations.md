@@ -6,7 +6,7 @@ We've conducted a study on the complexity of automating image recognition using 
 The result is that once you've collected enough image examples (10-100k) you may achieve up to 90% of successful recognition rate.
 The level of expertise required for utilizing some popluar open-sourced machine learning engine appeared to be pretty low - something an average intern may handle.
 
-Of course, our research had significant specifics such as CAPTCHA text length, its characters set, used image sizes, and even the fact itself that the our CAPTCHAs were text-image ones.
+Of course, our research had significant specifics such as CAPTCHA text length, its characters set, used image sizes, and even the fact itself that our CAPTCHAs were text-image ones.
 So results in other contexts may significantly differ.
 But regarding text-image CAPTCHAs we anyway believe that the task of automating their recognition is overall simpler than one may think it is.
 
