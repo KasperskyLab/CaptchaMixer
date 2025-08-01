@@ -33,22 +33,22 @@ See [security considerations](docs/security-considerations.md) for more details 
 
 But that is what we've managed to do for our needs using stock processors only. So you can do something similar or even better.
 
-![example-01.png](docs\examples\example-01.png)
-![example-02.png](docs\examples\example-02.png)
-![example-03.png](docs\examples\example-03.png)
-![example-04.png](docs\examples\example-04.png)
-![example-05.png](docs\examples\example-05.png)
-![example-06.png](docs\examples\example-06.png)
-![example-07.png](docs\examples\example-07.png)
-![example-08.png](docs\examples\example-08.png)
-![example-09.png](docs\examples\example-09.png)
-![example-10.png](docs\examples\example-10.png)
-![example-11.png](docs\examples\example-11.png)
-![example-12.png](docs\examples\example-12.png)
-![example-13.png](docs\examples\example-13.png)
-![example-14.png](docs\examples\example-14.png)
-![example-15.png](docs\examples\example-15.png)
-![example-16.png](docs\examples\example-16.png)
+![example-01.png](docs/examples/example-01.png)
+![example-02.png](docs/examples/example-02.png)
+![example-03.png](docs/examples/example-03.png)
+![example-04.png](docs/examples/example-04.png)
+![example-05.png](docs/examples/example-05.png)
+![example-06.png](docs/examples/example-06.png)
+![example-07.png](docs/examples/example-07.png)
+![example-08.png](docs/examples/example-08.png)
+![example-09.png](docs/examples/example-09.png)
+![example-10.png](docs/examples/example-10.png)
+![example-11.png](docs/examples/example-11.png)
+![example-12.png](docs/examples/example-12.png)
+![example-13.png](docs/examples/example-13.png)
+![example-14.png](docs/examples/example-14.png)
+![example-15.png](docs/examples/example-15.png)
+![example-16.png](docs/examples/example-16.png)
 
 ## Further reading
 
