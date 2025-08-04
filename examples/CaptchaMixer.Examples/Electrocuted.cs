@@ -37,7 +37,7 @@ public class Electrocuted : ICaptchaMixerTemplate
 		const string VectorCharsMessedUp = "chars-messed-up";
 
 		// store sizes to use them for various calculations - this lets the
-		// template adaptive for different captcha image sizes.
+		// template be adaptive for different captcha image sizes.
 		var width = builder.Width;
 		var height = builder.Height;
 
