@@ -7,7 +7,13 @@
     <!-- CS1591 = Missing XML comment for publicly visible type or member -->
     <!-- IDE0130 = Namespace does not match folder structure -->
     <NoWarn>CS1573;CS1591;IDE0130</NoWarn>
+    <Authors>UISDevTeam</Authors>
+    <Description>Graphical CAPTCHA tests generation library for C#</Description>
+    <PackageTags>captcha;text-captcha;security;web-security;bot-detection;bot-prevention</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/KasperskyLab/CaptchaMixer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KasperskyLab/CaptchaMixer.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
